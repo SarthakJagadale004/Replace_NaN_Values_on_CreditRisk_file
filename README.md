@@ -1,1 +1,1 @@
-# Replace_NaN_Values_on_CreditRisk_file
+The Replace_NaN_Values_on_CreditRisk_file typically refers to a process or script used to handle missing values (NaN, or Not a Number) in a dataset related to credit risk analysis. The main goal of this process is to clean and prepare the data for further analysis, ensuring the dataset is complete and reliable.
